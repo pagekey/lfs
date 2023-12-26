@@ -1,3 +1,5 @@
 # slides
 
-This is a place to hold (and link to) presentation I've made related to PageKey.
+This project has been moved to the PageKey GitLab. Here is the link:
+
+https://gitlab.com/pagekey/edu/slides
