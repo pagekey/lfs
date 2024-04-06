@@ -1,5 +1,6 @@
-# slides
+# PageKey LFS Repo
 
-This project has been moved to the PageKey GitLab. Here is the link:
+This repo holds large files that would weight down other repos and make them hard to clone.
 
-https://gitlab.com/pagekey/edu/slides
+- [Slides](./slides/README.md): PowerPoint slides from various PageKey videos.
+- [Plaintext DAW Instruments](./plaintext-daw-instruments): Sound files for [Plaintext DAW](https://github.com/pagekey/plaintext-daw).
